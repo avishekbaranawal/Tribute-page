@@ -1,0 +1,43 @@
+.header{
+  margin:auto auto;
+  text-align:center;
+}
+#img-div{
+  margin:0;
+  padding:10px;
+  text-align:center;
+  background-color:white;
+}
+body{
+  background-color:#eee;
+  text-align:center;
+  font-size:1.6rem;
+  line-height:1.5;
+  color:#333;
+}
+#image{
+  max-width:100%;
+  display:block;
+  height:auto;
+  margin:0 auto;
+}
+#tribute-info{
+  text-align:center;
+  display:inline-block;
+  color:#333;
+  font-size:1.6rem;
+  line-height:1.5;
+}
+ul{
+  max-width:550px;
+  margin:0 auto 50px auto;
+  text-align:left;
+  line-height:1.6;
+}
+blockquote{
+  font-style:italic;
+  text-align:left;
+}
+img{
+  display:block;
+}
